@@ -1,6 +1,6 @@
-# Jamstack
+# arhi-pro.ru
 
-This is the repo for https://jamstack.org
+This is the fork repo for https://jamstack.org
 
 An entry-point for learning about this architectural model. A place to learn what Jamstack is, for sharing tools, tips, examples and articles. This is also a place to find a local community meetup, or to seek support in starting one of your own.
 
